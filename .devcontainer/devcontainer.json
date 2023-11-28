@@ -6,7 +6,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "Github.copilot"
+                "GitHub.copilot"
             ]
         },
         "codespaces": {
